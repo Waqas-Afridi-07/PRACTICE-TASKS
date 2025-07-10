@@ -1,0 +1,1 @@
+I am polishing my python skill and making a strong logic by solving problems
