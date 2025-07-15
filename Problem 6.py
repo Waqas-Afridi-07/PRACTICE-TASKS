@@ -1,4 +1,4 @@
-a = int(input("Enter the number: "))
-b = int(input("Enter the number: "))
+x = int(input("Enter number: "))
+y = int(input("Enter number: "))
 
-print("The result is:", a/b)
+print("Result is:", x//y) # "//" used if integer result is desired
